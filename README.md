@@ -1,79 +1,73 @@
-## Draft templete will update throughout the course
+## Jake Burton Stewart
 
-## Your Name
+**A chef’s journey from pots and pans to coding**
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After spending 15 years working some of London’s finest restaurants, I'm after a new challenge in software development! How did this come about? Well, during the pandemic I spent a fair amount of time on furlough, after getting bored of making sourdough a friend recommend giving coding a go - as I had no idea if I would still have a job to go back to. I’m really enjoying this new challenge and is great fun learning a new skill. Wanting to turn this into more than just a hobby, I did my research and joined [Makers Academy](https://makers.tech/).
 
-## Projects
+## Contents
+| [Work-Experience](#work-experience) | [Education](#education) | [Projects](#projects) | [Skills](#skills) | [Extra](#extra) | [Hobbies](#hobbies) |
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+## Work-Experience
 
-## Work Experience
+#### Honourable Society of Lincolns Inn. London
+#### July 2018 – August 2021. Sous Chef
+I spent my first year here running the Banqueting team. We did events from high-end fine dining dinners, canapé functions and weddings for up to 250 guests. With a team of 4 chefs including myself, organisation and team work was key to the success of these events. 
+In my last two years I had the opportunity to set up, open and run the private members restaurant with just a small team of 5 in the kitchen. 
+[The MCR restaurant](https://www.lincolnsinn.org.uk/members/the-mcr-restaurant-bar/)
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Duck and Waffle. London
+#### July 2017 – July 2018. Sous Chef
+Duck and Waffle is a large operation and keeping everything running requires a lot of work and organisation. Open 24/7 serving around 1000 customers a day. My responsibilities were to help with the day to day running of the kitchen and be in-charge in the place of Head chef when he wasn’t available. Creating new dishes for the menu and assisting the production chef with updating our food costs, recipes and sourcing new suppliers.
+[Duck & Waffle](https://duckandwaffle.com/)
 
 ## Education
+#### Makers Academy (August 2021 to November 2021)
+12 week intensive coding bootcamp.
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object-oriented design
+- Focus on pair programming and group projects
+- Agile woking style
+- XP values
+- Full stack web development
+- Independent learning and problem-solver
+- Experience with MVC framework
+- Frameworks/library’s: Rails, React, Sinatra
+- Databases: PostgrsSQL, Firebase
+- Testing: Rspec, Jasmine, Jest, Self-built framework
 
-#### Your University / College (start_date to end_date)
+## Projects 
+| Project | Description | Technologies | Testing |
+| --- | --- | --- | --- |
+| [Recipedia](https://recipedia-cbe2c.web.app/),[Repo](https://github.com/Jjake540Recipedia)| Final project at Makers! A web app that let’s you find recipes online, with additions to create and save your own recipes.| React, Firebase - Authentication, Cloud Firestore, Storage, Hosting | Jest |
+| [Acebook](https://github.com/Jjake540/Acebook) | This was a group project were we created a copy of Facebook over 2 weeks. | Ruby on Rails, Bootstrap | Rspec |
+| [MakersBnB](https://github.com/Jjake540/makersBnB) | This was the first group project I did at Makers creating a copy of AirBnB | Ruby, RSpec, HTML, CSS, Sinatra, PostgresSQL, HTML, CSS | Rspec, Capybara |
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+## Skills
+#### Collaboration
+I have always worked as a part of a team and and have a great appreciation of team work and team success. Working and learning together is fundamental for team and individual growth. I listen to team members expectations and ideas while taking ownership for my own tasks.
+#### Communication
+The key to any team’s success. At Makers I’ve learnt about the Agile process, which is very similar to how I have worked in previous roles with regular meetings and discussions where all team members can share their ideas in an open discussion.  
+#### Detail
+Coming from a cooking background I have a strong attention to detail. I’ve found that creating code shares the same methodology as creating a recipe. This really helped my understanding of building code from the ground up.
+#### Initiative
+Working in restaurants taking initiative is crucial as things can change quickly and with little warning, were you are constantly having to think on your feet to find a solution.
 
-#### Any other qualifications
+## Extra
+**Craft Guild of Chefs National Chef of the Year, Semi Finalist 2014/15/19**
+- Cooking competition cooking against some of the best chefs in the UK, fantastic opportunity to really test yourself and a huge learning experience.
 
-That in some arguable way make you a better software developer or well-rounded person
+**Crisis at Christmas**
+- Over Christmas I volunteer with Crisis, a homeless charity and help with the running and organising of the kitchens. Main duties involved:
+- Managing the volunteers, making sure everyone is enjoying the experience.
+- Food hygiene rules were being followed.
+- Service rans smoothly and on time.
+- Food is delicious and the guests are happy.
+
+**Le Cordon Bleu School London March 08 - August 08**
+- After working as a chef for a couple years I decided to take my career a step further and join the prestigious school.
+
 
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- Rock climbing
+- Cooking and eating all the food
+- Traveling (to go rock climbing or go eating)

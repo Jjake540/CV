@@ -39,7 +39,7 @@ Duck and Waffle is a large operation and keeping everything running requires a l
 | Project | Description | Technologies | Testing |
 | --- | --- | --- | --- |
 | [Recipedia](https://recipedia-cbe2c.web.app/),[Repo](https://github.com/Jjake540Recipedia)| Final project at Makers! A web app that let’s you find recipes online, with additions to create and save your own recipes.| React, Firebase - Authentication, Cloud Firestore, Storage, Hosting | Jest |
-| [Acebook](https://github.com/Jjake540/Acebook) | This was a group project were we created a copy of Facebook over 2 weeks. | Ruby on Rails, Bootstrap | Rspec |
+| [Acebook](https://github.com/Jjake540/Acebook) | This was a group project where we created a copy of Facebook over 2 weeks. | Ruby on Rails, Bootstrap | Rspec |
 | [MakersBnB](https://github.com/Jjake540/makersBnB) | This was the first group project I did at Makers creating a copy of AirBnB | Ruby, RSpec, HTML, CSS, Sinatra, PostgresSQL, HTML, CSS | Rspec, Capybara |
 
 ## Skills

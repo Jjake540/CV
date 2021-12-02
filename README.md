@@ -1,11 +1,16 @@
-## Jake Burton Stewart
-
 **A chef’s journey from pots and pans to coding**
 
-After spending 15 years working some of London’s finest restaurants, I'm after a new challenge in software development! How did this come about? Well, during the pandemic I spent a fair amount of time on furlough, after getting bored of making sourdough a friend recommend giving coding a go - as I had no idea if I would still have a job to go back to. I’m really enjoying this new challenge and is great fun learning a new skill. Wanting to turn this into more than just a hobby, I did my research and joined [Makers Academy](https://makers.tech/).
+After spending 15 years working at some of London’s finest restaurants, I'm after a new challenge in software development! How did this come about? Well, during the pandemic I spent a fair amount of time on furlough, after getting bored of making sourdough a friend recommended giving coding a go - as I had no idea if I would still have a job to go back to. I’m really enjoying this new challenge and it is great fun learning a new skill while being able to be creative and build my own projects. Wanting to turn this into more than just a hobby, I did my research and joined [Makers Academy](https://makers.tech/).
 
 ## Contents
-| [Makers-Academy](#makers-academy) | [Projects](#projects) | [Work-Experience](#work-experience) | [Skills](#skills) | [Bonus-Points](#bonus-points) | [Hobbies](#hobbies) |
+| [Projects](#projects) | [Makers-Academy](#makers-academy) | [Work-Experience](#work-experience) | [Skills](#skills) | [Bonus-Points](#bonus-points) | [Hobbies](#hobbies) |
+
+## Projects 
+| Project | Learning | Technologies |
+| --- | --- | --- |
+| [Recipedia](https://recipedia-cbe2c.web.app/),[Repo](https://github.com/Jjake540Recipedia)| Final project at Makers! A web app that let’s you find recipes online, with additions to create and save your own recipes. Created this project over 2 weeks, with no experience of React or Firebase it was a steep learning curve but very proud of what we created. Check out the Wiki section to see a more in-depth description of what we did in the project | React, Firebase - Authentication, Cloud Firestore, Storage, Hosting, Jest |
+| [Acebook](http://limitless-atoll-12397.herokuapp.com/login),[Repo](https://github.com/Jjake540/Acebook) | This was a group project where we created a clone of Facebook over 2 weeks. First experience with a framework so as well and good planning at the start time for self study was needed to get an understanding of Rails so we could best  organise the project.  | Ruby on Rails, Bootstrap, Heroku, Rspec, Capybara |
+| [MakersBnB](https://github.com/Jjake540/makersBnB) | Made a mini version of AirBnB in one week! This was the first group project at Makers, Main learning from this was in the organisation and planning, using Trello to plan our days and all taking responsibly of scrum master during the week.  | Ruby, HTML, CSS, Sinatra, PostgresSQL, HTML, CSS, Rspec, Capybara |
 
 ## Makers Academy
 **(August 2021 to November 2021)
@@ -14,6 +19,7 @@ After spending 15 years working some of London’s finest restaurants, I'm after
 - Object-oriented design
 - Focus on pair programming and group projects
 - Agile woking style
+- EQ, empathy and teamwork workshops
 - XP values
 - Full stack web development
 - Independent learning and problem-solver
@@ -22,56 +28,56 @@ After spending 15 years working some of London’s finest restaurants, I'm after
 - Databases: PostgrsSQL, Firebase
 - Testing: Rspec, Jasmine, Jest, Self-built framework
 
-## Projects 
-| Project | Description | Technologies | Testing |
-| --- | --- | --- | --- |
-| [Recipedia](https://recipedia-cbe2c.web.app/),[Repo](https://github.com/Jjake540Recipedia)| Final project at Makers! A web app that let’s you find recipes online, with additions to create and save your own recipes.| React, Firebase - Authentication, Cloud Firestore, Storage, Hosting | Jest |
-| [Acebook](https://github.com/Jjake540/Acebook) | This was a group project where we created a copy of Facebook over 2 weeks. | Ruby on Rails, Bootstrap | Rspec |
-| [MakersBnB](https://github.com/Jjake540/makersBnB) | This was the first group project I did at Makers creating a copy of AirBnB | Ruby, RSpec, HTML, CSS, Sinatra, PostgresSQL, HTML, CSS | Rspec, Capybara |
-
-
 ## Work-Experience
 
-#### Honourable Society of Lincolns Inn. London
-#### July 2018 – August 2021. Sous Chef
-I spent my first year here running the Banqueting team. We did events from high-end fine dining dinners, canapé functions and weddings for up to 250 guests. With a team of 4 chefs including myself, organisation and team work was key to the success of these events. 
-In my last two years I had the opportunity to set up, open and run the private members restaurant with just a small team of 5 in the kitchen. 
-[The MCR restaurant](https://www.lincolnsinn.org.uk/members/the-mcr-restaurant-bar/)
+#### Sous Chef at the Honourable Society of Lincolns Inn. London, July 2018 – August 2021.
+- Spent one year leading the Banqueting team. Team of 4 chefs doing large prestigious events.
+- Managed and mentored the junior chef’s.
+- Worked closely with other departments to ensure the events ran smoothly.
 
-#### Duck and Waffle. London
-#### July 2017 – July 2018. Sous Chef
-Duck and Waffle is a large operation and keeping everything running requires a lot of work and organisation. Open 24/7 serving around 1000 customers a day. My responsibilities were to help with the day to day running of the kitchen and be in-charge in the place of Head chef when he wasn’t available. Creating new dishes for the menu and assisting the production chef with updating our food costs, recipes and sourcing new suppliers.
-[Duck & Waffle](https://duckandwaffle.com/)
+**In my last two years I set up and opened a private members restaurant**
+- High levels of time management and planning involved in the setting up of the restaurant. This led into a smooth opening of the restaurant with the standards increasing at a consistent level.
+- Junior staff got promoted through my mentorship.
+- Regular team meetings to help the team evolve and the business to grow. All staff were encouraged to bring ideas to the table on all aspects of the business.
+- During the pandemic we had to change the business model to allow for a takeaway/delivery service.
+- [The MCR restaurant](https://www.lincolnsinn.org.uk/members/the-mcr-restaurant-bar/)
+
+#### Sous Chef at Duck and Waffle. London, July 2017 – July 2018.
+- Supported the head chef with managing the kitchen and took the lead when he wasn’t available.
+- Worked closely with the production chef to ensure recipe's were costed accurately and updated regularly.
+- Mentored the junior chefs, encouraging them to create dishes for the menu to help with their development.
+- [Duck & Waffle](https://duckandwaffle.com/)
+
+#### Previous experience available on request.
 
 ## Skills
 #### Collaboration
-- I have always worked as a part of a team and and have a great appreciation of team work and team success. Working and learning together is fundamental for team and individual growth. I listen to team members expectations and ideas while taking ownership for my own tasks.
+I have always worked as a part of a team and and have a great appreciation of team work and team success. Working and learning together is fundamental for team and individual growth. I listen to team members expectations and ideas while taking ownership for my own tasks. Collaborating while pair porgramming was a huge leaning expriance at Makers as I paired most days though the course. 
 #### Communication
-- The key to any team’s success. At Makers I’ve learnt about the Agile process, which is very similar to how I have worked in previous roles with regular meetings and discussions where all team members can share their ideas in an open discussion.  
-#### Detail
-- Coming from a cooking background I have a strong attention to detail. I’ve found that creating code shares the same methodology as creating a recipe, in both cases you have you work in a specific order to create your product.
-- The habit on testing is an transferable skill from kitchens as with food you need to constantly taste before serving to the customers, similar to how the TDD process works.
+The key to any team’s success. At Makers I’ve learnt about the Agile process, which is very similar to how I have worked in previous roles with regular meetings and discussions where all team members can share their ideas in an open discussion. During the group projects at Makers leading standups, retros, updating Trello boards and assigning tasks to my team members also helped give me a better understanding of leadership within a software development role.
+#### Testing
+In the kitchens, tasting the food regularly and often is second nature to me. I find with coding the mindset of testing fit’s very well with this process so TDD felt like a natural progression. Recent process review screen shot below.
+![TDD screenshot](https://user-images.githubusercontent.com/77396594/144481708-64d501ec-dbc1-438f-9f1a-08268f5a1f67.png)
 #### Initiative
-- Working in restaurants taking initiative is crucial as things can change quickly and with little warning, were you are constantly having to think on your feet to find a solution.
-- Continuing with my coding after Makers by going though [Udemy](https://www.udemy.com/user/jake-burton-stewart/) course’s to build on my JavaScript knowledge, while also working though my own projects, [codewars](https://www.codewars.com/users/Jjake540) and doing process reviews though Makers.
+Working in restaurants, taking initiative is crucial as things can change quickly and with little warning, where you are constantly having to think on your feet to find a solution. This had led to me being a very adaptable and quick thinker willing to put myself out there to find a solution to any situation.
+
+Continuing with my coding after Makers by going though [Udemy](https://www.udemy.com/user/jake-burton-stewart/) courses to build on my JavaScript knowledge, while also working though my own projects, [codewars](https://www.codewars.com/users/Jjake540) and doing process reviews though Makers.
 
 ## Bonus-points
 **Craft Guild of Chefs National Chef of the Year, Semi Finalist 2014/15/19**
-- Cooking competition cooking against some of the best chefs in the UK fantastic opportunity to really test yourself and a huge learning experience.
-- High level of organisation and planning needed to progress through the competition.
+- Fantastic opportunity to get out of your comfort zone and cook against some of the best chefs in the UK.
+- High level of organisation, planning and focus needed in the competition.
 
 **Crisis at Christmas**
 - Over Christmas I volunteer with Crisis, a homeless charity and help with the running and organising of the kitchens. Main duties involved:
 - Managing the volunteers, making sure everyone is enjoying the experience.
 - Food hygiene rules were being followed.
-- Service rans smoothly and on time.
+- Service runs smoothly and on time.
 - Food is delicious and the guests are happy.
 
 **Le Cordon Bleu School London March 08 - August 08**
 - After working as a chef for a couple years I decided to take my career a step further and join the prestigious school.
 
-
 ## Hobbies
-- Rock climbing
-- Cooking and eating all the food
-- Traveling (to go rock climbing or go eating)
+- Rock climbing keeps me busy and I really enjoy going away on trips up in the Peak District or north Wales with friends.
+- Cooking and eating all the food, love cooking for people and going out to restaurants.

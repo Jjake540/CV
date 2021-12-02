@@ -57,6 +57,7 @@ I have always worked as a part of a team and and have a great appreciation of te
 The key to any team’s success. At Makers I’ve learnt about the Agile process, which is very similar to how I have worked in previous roles with regular meetings and discussions where all team members can share their ideas in an open discussion. During the group projects at Makers leading standups, retros, updating Trello boards and assigning tasks to my team members also helped give me a better understanding of leadership within a software development role.
 #### Testing
 In the kitchens, tasting the food regularly and often is second nature to me. I find with coding the mindset of testing fit’s very well with this process so TDD felt like a natural progression. Recent process review screen shot below.
+
 ![TDD screenshot](https://user-images.githubusercontent.com/77396594/144481708-64d501ec-dbc1-438f-9f1a-08268f5a1f67.png)
 #### Initiative
 Working in restaurants, taking initiative is crucial as things can change quickly and with little warning, where you are constantly having to think on your feet to find a solution. This had led to me being a very adaptable and quick thinker willing to put myself out there to find a solution to any situation.

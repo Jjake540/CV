@@ -1,4 +1,4 @@
-**A chef’s journey from pots and pans to coding**
+**A chef’s journey from pots and pans to bashing keyboards**
 
 After spending 15 years working at some of London’s finest restaurants, I'm after a new challenge in software development! How did this come about? Well, during the pandemic I spent a fair amount of time on furlough, after getting bored of making sourdough a friend recommended giving coding a go - as I had no idea if I would still have a job to go back to. I’m really enjoying this new challenge and it is great fun learning a new skill while being able to be creative and build my own projects. Wanting to turn this into more than just a hobby, I did my research and joined [Makers Academy](https://makers.tech/).
 
@@ -8,9 +8,9 @@ After spending 15 years working at some of London’s finest restaurants, I'm af
 ## Projects 
 | Project | Learning | Technologies |
 | --- | --- | --- |
-| [Recipedia](https://recipedia-cbe2c.web.app/),[Repo](https://github.com/Jjake540Recipedia)| Final project at Makers! A web app that let’s you find recipes online, with additions to create and save your own recipes. Created this project over 2 weeks, with no experience of React or Firebase it was a steep learning curve but very proud of what we created. Check out the Wiki section to see a more in-depth description of what we did in the project | React, Firebase - Authentication, Cloud Firestore, Storage, Hosting, Jest |
-| [Acebook](http://limitless-atoll-12397.herokuapp.com/login),[Repo](https://github.com/Jjake540/Acebook) | This was a group project where we created a clone of Facebook over 2 weeks. First experience with a framework so as well and good planning at the start time for self study was needed to get an understanding of Rails so we could best  organise the project.  | Ruby on Rails, Bootstrap, Heroku, Rspec, Capybara |
-| [MakersBnB](https://github.com/Jjake540/makersBnB) | Made a mini version of AirBnB in one week! This was the first group project at Makers, Main learning from this was in the organisation and planning, using Trello to plan our days and all taking responsibly of scrum master during the week.  | Ruby, HTML, CSS, Sinatra, PostgresSQL, HTML, CSS, Rspec, Capybara |
+| [Recipedia](https://recipedia-cbe2c.web.app/)/[Repo](https://github.com/Jjake540Recipedia)/[Wiki](https://github.com/Jjake540/Recipedia/wiki)| Final project at Makers! A web app that let’s you find recipes online, with additions to create and save your own recipes. Created this project over 2 weeks, with no experience of React or Firebase, it was a steep learning curve but very proud of what we created. Check out the Wiki section to see a more in-depth description of what we did in the project. | React, Firebase - Authentication, Cloud Firestore, Storage, Hosting, Jest |
+| [Acebook](http://limitless-atoll-12397.herokuapp.com/login)/[Repo](https://github.com/Jjake540/Acebook) | This was a group project where we created a clone of Facebook over 2 weeks and had our first interaction with a framework. Time for self study was needed to get an understanding of Rails so we could best organise the project. Strong focus on team work to build on what was learnt during the first group project. | Ruby on Rails, Bootstrap, Heroku, Rspec, Capybara |
+| [MakersBnB](https://github.com/Jjake540/makersBnB) | Made a mini version of AirBnB in one week! This was the first group project at Makers. Main learning were organisation and planning, using Trello to plan our days and all taking responsibly of scrum master during the week.  | Ruby, HTML, CSS, Sinatra, PostgresSQL, HTML, CSS, Rspec, Capybara |
 
 ## Makers Academy
 **(August 2021 to November 2021)
@@ -22,7 +22,7 @@ After spending 15 years working at some of London’s finest restaurants, I'm af
 - EQ, empathy and teamwork workshops
 - XP values
 - Full stack web development
-- Independent learning and problem-solver
+- Independent learning and problem-solving
 - Experience with MVC framework
 - Frameworks/library’s: Rails, React, Sinatra
 - Databases: PostgrsSQL, Firebase
@@ -43,28 +43,28 @@ After spending 15 years working at some of London’s finest restaurants, I'm af
 
 #### Sous Chef at Duck and Waffle. London, July 2017 – July 2018. - [Duck & Waffle](https://duckandwaffle.com/)
 - Supported the head chef with managing the kitchen and took the lead when he wasn’t available.
-- Worked closely with the production chef to ensure recipe's were costed accurately and updated regularly.
+- Worked closely with the production chef to ensure recipes were costed accurately and updated regularly.
 - Mentored the junior chefs, encouraging them to create dishes for the menu to help with their development.
 
 #### Previous experience available on request.
 
 ## Skills
 #### Collaboration
-I have always worked as a part of a team and and have a great appreciation of team work and team success. Working and learning together is fundamental for team and individual growth. I listen to team members expectations and ideas while taking ownership for my own tasks. Collaborating while pair porgramming was a huge leaning expriance at Makers as I paired most days though the course. 
+I have always worked as a part of a team and have a great appreciation of team work and team success. Working and learning together is fundamental for team and individual growth. I listen to team members expectations and ideas while taking ownership for my own tasks. Collaborating while pair programming was a huge learning experience at Makers as I paired most days though the course. 
 #### Communication
 The key to any team’s success. At Makers I’ve learnt about the Agile process, which is very similar to how I have worked in previous roles with regular meetings and discussions where all team members can share their ideas in an open discussion. During the group projects at Makers leading standups, retros, updating Trello boards and assigning tasks to my team members also helped give me a better understanding of leadership within a software development role.
 #### Testing
-In the kitchens, tasting the food regularly and often is second nature to me. I find with coding the mindset of testing fit’s very well with this process so TDD felt like a natural progression. Recent process review screen shot below.
+In kitchens, tasting the food regularly and often is second nature to me. I find with coding the mindset of testing fits very well with this process so TDD felt like a natural progression. Recent process review screen shot below.
 
 ![TDD screenshot](https://user-images.githubusercontent.com/77396594/144481708-64d501ec-dbc1-438f-9f1a-08268f5a1f67.png)
 #### Initiative
-Working in restaurants, taking initiative is crucial as things can change quickly and with little warning, where you are constantly having to think on your feet to find a solution. This had led to me being a very adaptable and quick thinker willing to put myself out there to find a solution to any situation.
+Working in restaurants, taking initiative is crucial as things can change quickly and with little warning, where you are constantly having to think on your feet to find a solution. This has made me very adaptable and a quick thinker willing to put myself out there to find a solution to any situation.
 
-Continuing with my coding after Makers by going though [Udemy](https://www.udemy.com/user/jake-burton-stewart/) courses to build on my JavaScript knowledge, while also working though my own projects, [codewars](https://www.codewars.com/users/Jjake540) and doing process reviews though Makers.
+Continuing with my coding after Makers by going though [Udemy](https://www.udemy.com/user/jake-burton-stewart/) courses to build on my JavaScript knowledge, while also working on my own projects, [codewars](https://www.codewars.com/users/Jjake540) and doing process reviews though Makers.
 
 ## Bonus-points
 **Craft Guild of Chefs National Chef of the Year, Semi Finalist 2014/15/19**
-- Fantastic opportunity to get out of your comfort zone and cook against some of the best chefs in the UK.
+- Fantastic opportunity to get out of my comfort zone and cook against some of the best chefs in the UK.
 - High level of organisation, planning and focus needed in the competition.
 
 **Crisis at Christmas**

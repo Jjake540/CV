@@ -35,18 +35,16 @@ After spending 15 years working at some of London’s finest restaurants, I'm af
 - Managed and mentored the junior chef’s.
 - Worked closely with other departments to ensure the events ran smoothly.
 
-**In my last two years I set up and opened a private members restaurant**
+**In my last two years I set up and opened a private members restaurant** - [The MCR restaurant](https://www.lincolnsinn.org.uk/members/the-mcr-restaurant-bar/)
 - High levels of time management and planning involved in the setting up of the restaurant. This led into a smooth opening of the restaurant with the standards increasing at a consistent level.
 - Junior staff got promoted through my mentorship.
 - Regular team meetings to help the team evolve and the business to grow. All staff were encouraged to bring ideas to the table on all aspects of the business.
 - During the pandemic we had to change the business model to allow for a takeaway/delivery service.
-- [The MCR restaurant](https://www.lincolnsinn.org.uk/members/the-mcr-restaurant-bar/)
 
-#### Sous Chef at Duck and Waffle. London, July 2017 – July 2018.
+#### Sous Chef at Duck and Waffle. London, July 2017 – July 2018. - [Duck & Waffle](https://duckandwaffle.com/)
 - Supported the head chef with managing the kitchen and took the lead when he wasn’t available.
 - Worked closely with the production chef to ensure recipe's were costed accurately and updated regularly.
 - Mentored the junior chefs, encouraging them to create dishes for the menu to help with their development.
-- [Duck & Waffle](https://duckandwaffle.com/)
 
 #### Previous experience available on request.
 

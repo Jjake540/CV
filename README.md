@@ -62,6 +62,8 @@ In kitchens, tasting the food regularly and often is second nature to me. I find
 Working in restaurants, taking initiative is crucial as things can change quickly and with little warning, where you are constantly having to think on your feet to find a solution. This has made me very adaptable and a quick thinker willing to put myself out there to find a solution to any situation.
 
 Continuing with my coding after Makers by going through [Udemy](https://www.udemy.com/user/jake-burton-stewart/) courses to build on my JavaScript knowledge, while also working on my projects, [codewars](https://www.codewars.com/users/Jjake540) and doing process reviews though Makers.
+#### Problem Solving 
+I’m developing a great understanding of the creative process involved in good programming, by figuring out solutions, thinking outside the box and isolating the issues. During the final project at Makers, deciding to use Firebase when a new version had recently been released was an interesting experience as 99% of the tutorials online were out of date so we had to dive deep into Firebase docs to find solutions to our problems, while also getting acquainted with a NoSQL database for the first time. I love the creativity involved in working through problems.
 
 ## Bonus-points
 **Craft Guild of Chefs National Chef of the Year, Semi-Finalist 2014/15/19**

@@ -56,12 +56,10 @@ I have always worked as a part of a team and have a great appreciation of teamwo
 The key to any team’s success. At Makers, I’ve learnt about the Agile process, which is very similar to how I have worked in previous roles with regular meetings and discussions where all team members can share their ideas in an open discussion. During the group projects at Makers leading standups, retros, updating Trello boards and assigning tasks to my team members also helped give me a better understanding of leadership within a software development role.
 #### Testing
 In kitchens, tasting the food regularly and often is second nature to me. I find with coding the mindset of testing fits very well with this process so TDD felt like a natural progression. Recent process review screenshot below.
-
 ![TDD screenshot](https://user-images.githubusercontent.com/77396594/144481708-64d501ec-dbc1-438f-9f1a-08268f5a1f67.png)
 #### Initiative
-Working in restaurants, taking initiative is crucial as things can change quickly and with little warning, where you are constantly having to think on your feet to find a solution. This has made me very adaptable and a quick thinker willing to put myself out there to find a solution to any situation.
-
-Continuing with my coding after Makers by going through [Udemy](https://www.udemy.com/user/jake-burton-stewart/) courses to build on my JavaScript knowledge, while also working on my projects, [codewars](https://www.codewars.com/users/Jjake540) and doing process reviews though Makers.
+From my experience of entering cooking competitions, where you have a set time to produce a menu from scratch, I’ve gained great insight into working efficiently and thorough planning. Using the skills I’ve gained from these experiences to always question whether there are better ways to cook certain ingredients and consistently aim to work more efficiently.
+Taking these skills back to work, I got my team into the habit of asking themselves is this the best way? How can I be more efficient? Why did I do it that way? And asking for feedback. Through my mentorship, this process became second nature to the team and as a result, I was able to take a step back from the kitchen and focus more on the business, the team had more time to focus on recipe development plus the quality and service improved in the restaurant.
 #### Problem Solving 
 I’m developing a great understanding of the creative process involved in good programming, by figuring out solutions, thinking outside the box and isolating the issues. During the final project at Makers, deciding to use Firebase when a new version had recently been released was an interesting experience as 99% of the tutorials online were out of date so we had to dive deep into Firebase docs to find solutions to our problems, while also getting acquainted with a NoSQL database for the first time. I love the creativity involved in working through problems.
 
